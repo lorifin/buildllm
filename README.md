@@ -1,4 +1,3 @@
-# Create a README.md file for the user's project
 readme_content = r"""# buildllm — Agent CLI IA (type **Claude Code**) avec Google **Gemini** (gratuit)
 
 > Un petit agent “dev-copilote” en **ligne de commande** qui lit/écrit des fichiers, exécute du Python, et itère jusqu’à résoudre une tâche de code — en s’appuyant sur l’API **Gemini** (clé gratuite). Idéal pour comprendre **comment fonctionnent vraiment** les outils d’IA “agentiques”.
